@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="nav_news_category">CATEGORYS</string>
+    <string name="nav_news_sources">SOURCES</string>
+    <string name="nav_news_articles">ARTICLES</string>
+    <string name="nav_news_articles_detail">NEWS - ARTICLE DETAIL</string>
+
+    <string name="empty_state">Whoops its Empty!</string>
+    <string name="empty_state_detail">News list not found. There is Nothing in the News. Enjoy your coffee!</string>
+    <string name="error_state">Check Your Network and Try Again!</string>
+    <string name="error_network">Mohon Periksa Kembali Jaringan Internet Anda</string>
+    <string name="find_resources">Search Sources</string>
+    <string name="find_articles">Search News</string>
+    <string name="try_again">Try Again</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="like_button">Like Button</string>
+</resources>
